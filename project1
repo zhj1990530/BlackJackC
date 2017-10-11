@@ -1,0 +1,153 @@
+Script started on Wed Oct 11 17:40:17 2017
+mason% gcc   uname -a
+SunOS mason 5.10 Generic_150400-53 sun4u sparc SUNW,Sun-Fire-V890
+mason% gcc Pro* -lm
+mason% ./a.out
+Please place bet 10-1000 within your bank roll of 400: 400
+you bet 400 on this game. Good luck!
+Dealer's hole card face value:
+K
+Player has:
+6
+Q
+press space key to hit or any other key to stand:
+player's point is: 16
+6
+Q
+dealer busted, player win !!
+Press y to continue playing:
+Please place bet 10-1000 within your bank roll of 800: 700
+you bet 700 on this game. Good luck!
+Dealer's hole card face value:
+4
+Player has:
+5
+2
+press space key to hit or any other key to stand:
+dealing 10
+player's point is: 17
+press space key to hit or any other key to stand:
+player's point is: 17
+5
+2
+10
+dealer's point is: 17
+4
+8
+A
+4
+push!!
+Press y to continue playing:
+Please place bet 10-1000 within your bank roll of 800: 200
+you bet 200 on this game. Good luck!
+Dealer's hole card face value:
+A
+Player has:
+8
+5
+press space key to hit or any other key to stand:
+dealing 2
+player's point is: 15
+press space key to hit or any other key to stand:
+dealing 9
+you busted, lose
+Press y to continue playing:
+your current bankroll:600
+win: 2
+lose: 2
+push: 1
+bust 1
+bj: 0
+mason% ./a.out
+Please place bet 10-1000 within your bank roll of 600: 600
+you bet 600 on this game. Good luck!
+Dealer's hole card face value:
+4
+Player has:
+10
+4
+press space key to hit or any other key to stand:
+dealing 2
+player's point is: 16
+press space key to hit or any other key to stand:
+dealing Q
+you busted, lose
+Game over!
+win: 2
+lose: 3
+push: 1
+bust 2
+bj: 0
+mason% ./a.out
+Please place bet 10-1000 within your bank roll of 1000: 1000
+you bet 1000 on this game. Good luck!
+Dealer's hole card face value:
+A
+Player has:
+Q
+10
+press space key to hit or any other key to stand:
+player's point is: 20
+Q
+10
+dealer got Black jack!!
+A
+4
+6
+dealer win!!!
+Game over!
+win: 0
+lose: 1
+push: 0
+bust 0
+bj: 0
+mason% ./a.out
+Please place bet 10-1000 within your bank roll of 1000: 1000
+you bet 1000 on this game. Good luck!
+Dealer's hole card face value:
+J
+Player has:
+6
+9
+press space key to hit or any other key to stand:
+dealing 6
+player's point is: 21
+press space key to hit or any other key to stand:
+player got Black jack!!
+6
+9
+6
+dealer's point is: 19
+J
+9
+player win!!!
+Press y to continue playing:
+Please place bet 10-1000 within your bank roll of 2000: 1000   0
+you bet 10 on this game. Good luck!
+Dealer's hole card face value:
+10
+Player has:
+K
+3
+press space key to hit or any other key to stand:
+dealing 6
+player's point is: 19
+press space key to hit or any other key to stand:
+player's point is: 19
+K
+3
+6
+dealer's point is: 17
+10
+7
+player win!!!
+Press y to continue playing:
+your current bankroll:2010
+win: 2
+lose: 0
+push: 0
+bust 0
+bj: 1
+mason% ^C
+mason% ^Z^D
+script done on Wed Oct 11 17:43:41 2017
