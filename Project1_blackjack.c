@@ -13,7 +13,7 @@
 // function prototypes  
 char getachar(void); 		// get a character in raw mode	 
 int dealing(void);          // dealing a card
-char *convert_card(int);    // convert num to card string
+char *convert_card(int);    // convert num to string
 void play(int*, int, int*); // play game
 int fix_card(int);          //fix the jkq;
 void end(int, int*);       //end  
